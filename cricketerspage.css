@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-section {
+    background-color: #fb4e71;
+}
+
+.cricketer-name {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+    color: #ffffff;
+    padding: 12px;
+}
+
+.cricketer-bio {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 9px;
+}
+
+.cricketer-image {
+    height: 180px;
+    width: 190px;
+}
+
+.bottom-section {
+    background-color: #e6f6ff;
+    padding: 10px;
+}
+
+.bottom-section-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ipl-card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 8px;
+
+}
+
+.matches-between {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.match-score {
+    color: #888888;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.cricketer-videos {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    padding: 12px;
+    font-weight: bold;
+}
+
+.video-text-container {
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.cricketer-video-image1 {
+    height: 120px;
+    width: 130px;
+}
+
+.video-message {
+    font-size: 15px;
+}
+
+.below-button {
+    border-radius: 10px;
+}
